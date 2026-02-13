@@ -16,10 +16,6 @@ Hands-On DevOps & IaC: My main passion is my homelab, where I'm using Proxmox, T
 
 ---
 
-## 🔍 Featured Repos
-
----
-
 ## 💾 Tech Stack
 **Languages**: Python, JavaScript, C++, Bash, HTML, CSS
 
